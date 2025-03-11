@@ -3,7 +3,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 [![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy)](https://spacy.io/)
 
-An AI-powered system to assess O-1A "Extraordinary Ability" visa eligibility by analyzing CVs against USCIS criteria.
+NOTE: Please refer to the main.py file in the directory to see the desired output
 
 ---
 
