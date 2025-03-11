@@ -1,0 +1,6 @@
+graph TD  
+    A[CV File] --> B(API Layer)  
+    B --> C[Document Parser]  
+    C --> D[NLP Engine]  
+    D --> E[Decision Engine]  
+    E --> F{Evaluation Output}  
